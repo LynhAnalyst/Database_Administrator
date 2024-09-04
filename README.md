@@ -2,20 +2,20 @@
 * SQL Server [Download](https://www.microsoft.com/en-us/sql-server/sql-server-downloads  )
 
 ## Chapter
-Chap 1. Lập trình với cơ sở dữ liệu
+Chapter 1. Programming with databases
 
-* 1.1 Thủ tục (Stored procedure)
+* 1.1 Stored procedure
 
-* 1.2 Hàm (Function)
+* 1.2 Functions
 
-* 1.3 Trigger
+* 1.3 Triggers
 
-Chap 2. Quản trị cơ sở dữ liệu
+Chapter 2. Database administration
 
-* 2.1. Quản lý giao tác (Transaction)
+* 2.1. Transaction management
 
-* 2.2. Quản lý tương tranh (Concurency)
+* 2.2. Concurrency management
 
-* 2.3. Bảo mật trong CSDL
+* 2.3. Security in the database
 
 * 2.4. Backup & Recovery
